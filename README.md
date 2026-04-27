@@ -35,8 +35,6 @@ Create a local `.env` file:
 OPENAI_API_KEY=your_api_key_here
 ```
 
-Important: `.env` must not be committed to GitHub.
-
 ## Run
 
 Start Jupyter Notebook:
