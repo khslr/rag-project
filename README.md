@@ -21,13 +21,6 @@ This project demonstrates a simple RAG workflow:
   Improved version with additional functionality.
 
 ## Setup
-
-Create and activate a Python environment:
-
-```bash
-conda activate openai-env
-```
-
 Install dependencies:
 
 ```bash
