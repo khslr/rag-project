@@ -45,10 +45,3 @@ jupyter notebook
 
 Then open one of the notebooks in your browser.
 
-## Notes
-
-This repository is intended as a compact learning project for understanding the basic structure of a RAG pipeline.
-
-## License
-
-MIT
